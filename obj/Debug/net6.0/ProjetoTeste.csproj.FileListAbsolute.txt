@@ -1,0 +1,15 @@
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.exe
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.deps.json
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.runtimeconfig.json
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.dll
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\bin\Debug\net6.0\ref\ProjetoTeste.dll
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.pdb
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.csproj.AssemblyReference.cache
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.AssemblyInfo.cs
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.dll
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\obj\Debug\net6.0\ref\ProjetoTeste.dll
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.pdb
+C:\Users\lucca\OneDrive\Documentos\EU\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.genruntimeconfig.cache
